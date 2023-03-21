@@ -260,7 +260,7 @@ not explicitly defined in the subscription it won't be returned by AWS AppSync.
   - AppSync is now built targeting Swift 5.1
 - Updated AWS SDK dependencies to 2.12.0
 - Updated Reachability dependency to 4.3.1
-- Updated SQLite.Swift dependency to 0.12.2
+- Updated SQLite.Swift dependency to 0.13.2
 
 ## 2.14.3
 
